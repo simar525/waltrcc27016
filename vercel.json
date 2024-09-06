@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://simpleacademy.ai/10565/$1"
+ }
+  ]
+}
